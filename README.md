@@ -1,3 +1,3 @@
 # vk-api-php-sdk
 poster vk api
-php расчиерение для атопостинга в соцсети vk.com
+php расшиерение для автопостинга в соцсети vk.com
