@@ -1,0 +1,21 @@
+{
+    "name": "sergiyvoytovych/vk-api-sdk",
+    "description": "Vk PHP SDK autoposting",
+    "keywords": ["vk", "vkontakte", "sdk", "api", "autoposting"],
+    "type": "library",
+    "homepage": "https://github.com/sergiyvoytovych/vk-api-sdk",
+    "authors": [
+        {
+            "name": "Sergiy Voytovych",
+            "homepage": "https://github.com/sergiyvoytovych/vk-api-sdk/graphs/contributors"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
